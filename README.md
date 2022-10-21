@@ -12,7 +12,7 @@ npm v7.0.14
 ```
 ------------------------------
 
-### Step 1
+### Step 1 - clone inside micro-front-end(https://github.com/RachinC/micro-front-end) folder
 ```js
 git clone https://github.com/RachinC/microfrontends-react-app2.git
 ```
