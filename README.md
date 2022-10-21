@@ -27,7 +27,7 @@ Keep the build file ready
 ```js
 npm run build:webpack
 ```
-Get the app.js file under dist folder
+Get the app.js(react-2-react-app2.js) file under dist folder
 
 ### Step 4
 Start the dev server
